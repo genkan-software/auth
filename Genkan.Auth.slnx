@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Genkan.Auth.Domain/Genkan.Auth.Domain.csproj" />
+  <Project Path="src/Genkan.Auth.Infrastructure/Genkan.Auth.Infrastructure.csproj" />
+  <Project Path="src/Genkan.Auth.Application/Genkan.Auth.Application.csproj" />
+  <Project Path="src/Genkan.Auth.Api/Genkan.Auth.Api.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="..\Genkan.Auth.Domain\Genkan.Auth.Domain.csproj" />
+    <ProjectReference Include="..\Genkan.Auth.Infrastructure\Genkan.Auth.Infrastructure.csproj" />
+    <PackageReference Include="Genkan.Shared" Version="1.0.0" />
+  </ItemGroup>
+</Project>
